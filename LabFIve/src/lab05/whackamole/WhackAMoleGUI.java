@@ -12,7 +12,7 @@ import javax.swing.*;
  *
  * @author Grant Braught
  * 
- * @author
+ * @author Sweta Tamrakar
  * @version
  */
 public class WhackAMoleGUI extends JFrame implements Observer {

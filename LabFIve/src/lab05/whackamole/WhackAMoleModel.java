@@ -10,7 +10,7 @@ import java.util.*;
  * 
  * @author Grant Braught
  * 
- * @author
+ * @author Sweta Tamrakar
  * @version
  */
 public class WhackAMoleModel extends Observable{
